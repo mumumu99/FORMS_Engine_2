@@ -3,6 +3,27 @@ configs/
 experiments/
 *.pth
 
+# Added
+./opencv-python/
+
+./dataset/images/
+
+./dataset/images-cropped
+
+./dataset/model/
+
+./dataset/output_video/
+
+./dataset/outputs/
+
+./dataset/segmentation-cropped/
+
+./dataset/temp/
+
+./dataset/videos/
+
+*.mp4
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
